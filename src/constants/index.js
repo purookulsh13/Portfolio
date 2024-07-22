@@ -46,7 +46,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "An intuitive travel app offering curated packages for Indian tourist destinations. Provided users with insights into attractions, simplifying trip planning and enhancing the travel experience.",
-    technologies: ["Dart", "HTML", "Flutter", "Firebase"],
+    technologies: ["Dart", "Flutter", "Firebase"],
   },
   {
     title: "DBInserter",
