@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     {
       year: "February 2024 - June 2024",
       role: "SDE Intern",
-      company: "ITJOBXS",
+      company: " ITJOBXS",
       description: `Designed and developed a fully responsive web page for a section of itjobxs.com. Addressed user verification/authentication and tackled engineering challenges related to detecting and removing fake bots and posts. Integrated Recaptcha with the website, providing a Google layer of protection.`,
       technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
     },
@@ -46,7 +46,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "An intuitive travel app offering curated packages for Indian tourist destinations. Provided users with insights into attractions, simplifying trip planning and enhancing the travel experience.",
-    technologies: ["Dart", "HTML", "Flutter", "Firebase"],
+    technologies: ["Dart", "Flutter", "Firebase"],
   },
   {
     title: "DBInserter",

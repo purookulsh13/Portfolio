@@ -79,7 +79,7 @@ const Technologies = () => {
                 initial="initial"
                 animate="animate"
                 className="rounded-2xl bg-gray-900 p-4">
-                <RiReactjsLine className="text-7xl text-cyan-700"/>
+                <RiReactjsLine className="text-7xl text-cyan-500"/>
             </motion.div>
 
             <motion.div 
