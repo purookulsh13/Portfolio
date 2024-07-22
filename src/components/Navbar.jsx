@@ -33,6 +33,16 @@ const Navbar = () => {
         >
           <FaInstagram />
         </a>
+
+        <a 
+          href="/CV.pdf" 
+          class="inline-block px-6 py-3 mt-4 text-lg font-medium text-white bg-gradient-to-r from-purple-700 via-blue-600 to-indigo-800 rounded-full shadow-md hover:shadow-lg transition-all duration-300 ease-in-out transform hover:scale-105"
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
+          Download Resume
+        </a>
+        
       </div>
     </nav>
   );
