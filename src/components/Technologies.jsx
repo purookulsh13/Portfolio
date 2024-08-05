@@ -2,6 +2,7 @@ import { FaNodeJs } from "react-icons/fa";
 import { RiReactjsLine } from "react-icons/ri";
 import { BiLogoJava } from "react-icons/bi";
 import { SiHtml5, SiCss3, SiJavascript, SiGit, SiSqlite, SiGithub } from "react-icons/si";
+import { FaPhp } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const iconVariants = (duration) => ({
@@ -74,6 +75,8 @@ const Technologies = () => {
                 <SiJavascript className="text-7xl text-yellow-400"/>
             </motion.div>
 
+            
+
             <motion.div 
                 variants={iconVariants(5)}
                 initial="initial"
@@ -88,6 +91,14 @@ const Technologies = () => {
                 animate="animate"
                 className="rounded-2xl bg-gray-900 p-4">
                 <FaNodeJs className="text-7xl text-green-500"/>
+            </motion.div>
+
+            <motion.div 
+                variants={iconVariants(3.5)}
+                initial="initial"
+                animate="animate"
+                className="rounded-2xl bg-gray-900 p-4">
+                <FaPhp className="text-7xl text-yellow-500"/>
             </motion.div>
 
             <motion.div 
