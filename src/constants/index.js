@@ -10,13 +10,13 @@ export const HERO_CONTENT = `I am Puroo Kulshrestha, currently refining my skill
 export const ABOUT_TEXT = `I'm an enthusiastic and adaptable full stack developer passionate about crafting effective and intuitive web applications. With 5 years of industry experience, I've mastered various technologies like React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development sparked from a deep curiosity about functionality, evolving into a career where I thrive on learning and embracing new obstacles. I excel in teamwork, relishing in solving intricate challenges to deliver top-notch solutions. Beyond coding, I stay active, explore fresh technologies, and contribute to open-source initiatives.`;
 
 export const EXPERIENCES = [
-    {
-      year: "February 2024 - June 2024",
-      role: "SDE Intern",
-      company: "ITJOBXS",
-      description: `Designed and developed a fully responsive web page for a section of itjobxs.com. Addressed user verification/authentication and tackled engineering challenges related to detecting and removing fake bots and posts. Integrated Recaptcha with the website, providing a Google layer of protection.`,
-      technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-    },
+    // {
+    //   year: "February 2024 - June 2024",
+    //   role: "SDE Intern",
+    //   company: "ITJOBXS",
+    //   description: `Designed and developed a fully responsive web page for a section of itjobxs.com. Addressed user verification/authentication and tackled engineering challenges related to detecting and removing fake bots and posts. Integrated Recaptcha with the website, providing a Google layer of protection.`,
+    //   technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    // },
     {
       year: "August 2021 - April 2023",
       role: "Technical Head",
