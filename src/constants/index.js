@@ -18,19 +18,20 @@ export const EXPERIENCES = [
     //   technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
     // },
     {
-      year: "August 2021 - April 2023",
-      role: "Technical Head",
-      company: "Androkit Club, GLA University",
-      description: `Responsible for leading and managing the club’s technical initiatives. Oversaw the development and implementation of technical solutions to support the club’s projects and organized events.`,
-      technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySql"],
-    },
-    {
       year: "August 2024 - Present",
       role: "A4 Analyst",
       company: "Capgemini",
       description: `Recently completed my training program, where I gained hands-on experience in Java backend development with Spring Boot, focusing on microservices architecture. Learned to work with tools and technologies like MySQL, Swagger, and Postman to build, test, and document efficient backend solutions. Now excited to apply these skills and contribute to impactful projects within the team.`,
       technologies: ["Java", "Spring Boot", "Microservices", "MySQL", "Swagger", "Postman"],
     },
+    {
+      year: "August 2021 - April 2023",
+      role: "Technical Head",
+      company: "Androkit Club, GLA University",
+      description: `Responsible for leading and managing the club’s technical initiatives. Oversaw the development and implementation of technical solutions to support the club’s projects and organized events.`,
+      technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySql"],
+    },
+    
 ];
 
 export const PROJECTS = [
