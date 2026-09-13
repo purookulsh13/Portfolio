@@ -10,6 +10,7 @@ export const HERO_CONTENT = `I’m Puroo Kulshrestha, a Generative AI Engineer w
 export const ABOUT_TEXT = `Generative AI Engineer with a strong foundation in software development and a focus on building scalable, secure, and intelligent AI systems. My work spans RAG pipelines, multi-agent orchestration, LLM integrations, and enterprise-grade application development using Python, FastAPI, Azure AI services, and modern frontend tools. I enjoy turning complex business problems into practical AI-driven solutions with measurable impact.`;
 
 export const EXPERIENCES = [
+<<<<<<< HEAD
   {
     year: "Aug 2024 – Present",
     role: "Senior Analyst",
@@ -27,6 +28,30 @@ export const EDUCATION = [
     description: `Completed my undergraduate degree with a strong foundation in software engineering, problem solving, database systems, and modern application design. This education formed the core technical base that enabled my transition into AI engineering and enterprise application development.`,
     technologies: ["Java", "SQL", "Data Structures", "Software Engineering", "Computer Science"],
   },
+=======
+    // {
+    //   year: "February 2024 - June 2024",
+    //   role: "SDE Intern",
+    //   company: "ITJOBXS",
+    //   description: `Designed and developed a fully responsive web page for a section of itjobxs.com. Addressed user verification/authentication and tackled engineering challenges related to detecting and removing fake bots and posts. Integrated Recaptcha with the website, providing a Google layer of protection.`,
+    //   technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    // },
+    {
+      year: "August 2024 - Present",
+      role: "A4 Analyst",
+      company: "Capgemini",
+      description: `Recently completed my training program, where I gained hands-on experience in Java backend development with Spring Boot, focusing on microservices architecture. Learned to work with tools and technologies like MySQL, Swagger, and Postman to build, test, and document efficient backend solutions. Now excited to apply these skills and contribute to impactful projects within the team.`,
+      technologies: ["Java", "Spring Boot", "Microservices", "MySQL", "Swagger", "Postman"],
+    },
+    {
+      year: "August 2021 - April 2023",
+      role: "Technical Head",
+      company: "Androkit Club, GLA University",
+      description: `Responsible for leading and managing the club’s technical initiatives. Oversaw the development and implementation of technical solutions to support the club’s projects and organized events.`,
+      technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySql"],
+    },
+    
+>>>>>>> 1f89d34534eeadb458afc7578bdd021bc2a4f2b0
 ];
 
 export const PROJECTS = [
