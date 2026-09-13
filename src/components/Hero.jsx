@@ -24,13 +24,13 @@ const Hero = () => {
               className="bg-gradient-to-r from-yellow-500 via-teal-400 to-blue-300 bg-clip-text lg:text-5xl text-3xl tracking-tight text-transparent"
 
             >
-              FullStack Developer Enthusiast
+              Generative AI Developer – Software Engineer
             </motion.span>
             <motion.p
               whileInView={{ opacity: 1, x: 0 }}
               initial={{ opacity: 0, x: -100 }}
               transition={{ duration: 0.5 }}
-              className="my-2 max-w-2xl py-3 font-semibold tracking-tighter lg:text-2xl text-gray-800"
+              className="my-2 max-w-2xl py-3 font-semibold tracking-tighter lg:text-2xl text-white"
             >
               {HERO_CONTENT}
             </motion.p>

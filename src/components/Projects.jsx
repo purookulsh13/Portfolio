@@ -17,21 +17,9 @@ const Projects = () => {
                     <div key={index} className="mb-8 flex flex-wrap lg:justify-center">
                         <motion.div
                             whileInView={{ opacity: 1, x: 0 }}
-                            initial={{ opacity: 0, x: -100 }}
-                            transition={{ duration: 1 }}
-                            className="w-full lg:w-1/4 flex justify-center">
-
-                            <img
-                                src={project.image} alt={project.title}
-                                className="w-20 h-20 mb-6 rounded-full object-cover" />
-
-                        </motion.div>
-
-                        <motion.div
-                            whileInView={{ opacity: 1, x: 0 }}
                             initial={{ opacity: 0, x: 100 }}
                             transition={{ duration: 1 }}
-                            className="w-full max-w-xl lg:w-3/4">
+                            className="w-full max-w-3xl">
 
                             <h6 className="mb-2 text-xl font-bold">{project.title}</h6>
                             <p className="mb-4 text-white font-semibold">{project.description}</p>
